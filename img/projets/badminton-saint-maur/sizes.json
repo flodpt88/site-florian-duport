@@ -1,0 +1,26 @@
+{
+  "desktop-club": [
+    1440,
+    900
+  ],
+  "desktop-creneaux": [
+    1440,
+    900
+  ],
+  "desktop-hero": [
+    1440,
+    900
+  ],
+  "desktop-tarifs": [
+    1440,
+    900
+  ],
+  "mobile-creneaux": [
+    640,
+    1387
+  ],
+  "mobile-hero": [
+    640,
+    1387
+  ]
+}

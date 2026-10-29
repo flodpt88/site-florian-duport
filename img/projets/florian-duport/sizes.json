@@ -1,0 +1,22 @@
+{
+  "desktop-formule": [
+    1440,
+    900
+  ],
+  "desktop-hero": [
+    1440,
+    900
+  ],
+  "desktop-methode": [
+    1440,
+    900
+  ],
+  "mobile-formule": [
+    640,
+    1387
+  ],
+  "mobile-hero": [
+    640,
+    1387
+  ]
+}

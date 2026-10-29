@@ -1,0 +1,30 @@
+{
+  "desktop-aujourdhui": [
+    1440,
+    900
+  ],
+  "desktop-explorer": [
+    1440,
+    900
+  ],
+  "desktop-hero": [
+    1440,
+    900
+  ],
+  "desktop-lieux": [
+    1440,
+    900
+  ],
+  "desktop-trouver": [
+    1440,
+    900
+  ],
+  "mobile-aujourdhui": [
+    640,
+    1387
+  ],
+  "mobile-hero": [
+    640,
+    1387
+  ]
+}

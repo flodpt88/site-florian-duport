@@ -1,0 +1,1 @@
+var e=`contact@florianduport.fr`,t=`CLE_WEB3FORMS`,n={instagram:``,linkedin:``,facebook:``};export{n,t as r,e as t};

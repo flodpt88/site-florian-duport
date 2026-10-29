@@ -1,0 +1,26 @@
+{
+  "desktop-affiches": [
+    1440,
+    900
+  ],
+  "desktop-hero": [
+    1440,
+    900
+  ],
+  "desktop-hotes": [
+    1440,
+    900
+  ],
+  "desktop-sancy": [
+    1440,
+    900
+  ],
+  "mobile-hero": [
+    640,
+    1387
+  ],
+  "mobile-livret": [
+    640,
+    1387
+  ]
+}
