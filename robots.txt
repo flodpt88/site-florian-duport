@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.florianduport.fr/sitemap.xml
+Sitemap: https://florianduport.fr/sitemap.xml

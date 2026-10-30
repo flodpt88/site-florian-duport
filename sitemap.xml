@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://www.florianduport.fr/</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://www.florianduport.fr/mentions-legales.html</loc><changefreq>yearly</changefreq><priority>0.2</priority></url>
-  <url><loc>https://www.florianduport.fr/confidentialite.html</loc><changefreq>yearly</changefreq><priority>0.2</priority></url>
-  <url><loc>https://www.florianduport.fr/projets/indre-en-famille.html</loc><changefreq>yearly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://www.florianduport.fr/projets/badminton-saint-maur.html</loc><changefreq>yearly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://www.florianduport.fr/projets/au-coeur-du-sancy.html</loc><changefreq>yearly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://www.florianduport.fr/projets/florian-duport.html</loc><changefreq>yearly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://florianduport.fr/</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://florianduport.fr/mentions-legales.html</loc><changefreq>yearly</changefreq><priority>0.2</priority></url>
+  <url><loc>https://florianduport.fr/confidentialite.html</loc><changefreq>yearly</changefreq><priority>0.2</priority></url>
+  <url><loc>https://florianduport.fr/projets/indre-en-famille.html</loc><changefreq>yearly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://florianduport.fr/projets/badminton-saint-maur.html</loc><changefreq>yearly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://florianduport.fr/projets/au-coeur-du-sancy.html</loc><changefreq>yearly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://florianduport.fr/projets/florian-duport.html</loc><changefreq>yearly</changefreq><priority>0.6</priority></url>
 </urlset>
